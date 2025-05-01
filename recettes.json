@@ -1,0 +1,15 @@
+[
+      {
+        "nom": "Pizza Margherita",
+        "pays_origine": "Italie",
+        "difficulte": 2,
+        "details": "Pâte, sauce tomate, mozzarella, basilic."
+      },
+      {
+        "nom": "Poulet Yassa",
+        "pays_origine": "Sénégal",
+        "difficulte": 3,
+        "details": "Poulet mariné, oignons, citron, riz."
+      }
+    ]
+    
